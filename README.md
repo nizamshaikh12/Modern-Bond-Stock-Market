@@ -35,4 +35,3 @@ An analysis of the severe risks posed by price instability and asset bubbles:
 
 # Author
 **Mohd Nizam Mohd Nasir Shaikh**
-Master of Science in FinTech, National College of Ireland
